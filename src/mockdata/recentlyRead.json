@@ -1,0 +1,9 @@
+[
+  { "id": 1, "image": "motivateYes", "title": "Yes You Can" },
+  { "id": 2, "image": "mereChristianity", "title": "Mere Christianity" },
+  { "id": 3, "image": "theTwoTowers", "title": "The Two Towers" },
+  { "id": 4, "image": "psychMoney", "title": "Psychology of Money" },
+  { "id": 5, "image": "companyOne", "title": "Company of One" },
+  { "id": 6, "image": "morningSky", "title": "Morning Sky" },
+  { "id": 7, "image": "kinfolk", "title": "Kinfolk" }
+]

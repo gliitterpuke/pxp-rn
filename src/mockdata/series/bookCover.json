@@ -1,0 +1,20 @@
+{
+    "author": "Author",
+    "backgroundColor": "#636e35",
+    "image": "bookCover",
+    "released": 2022,
+    "title": "Book Cover",
+    "chapters": [
+      { "title": "Chapter 1", "seconds": 888 },
+      { "title": "Chapter 2", "seconds": 888 },
+      { "title": "Chapter 3", "seconds": 888 },
+      { "title": "Chapter 4", "seconds": 888 },
+      { "title": "Chapter 5", "seconds": 888 },
+      { "title": "Chapter 6", "seconds": 888 },
+      { "title": "Chapter 7", "seconds": 888 },
+      { "title": "Chapter 8", "seconds": 888 },
+      { "title": "Chapter 9", "seconds": 888 },
+      { "title": "Chapter 10", "seconds": 888 }
+    ]
+  }
+  
